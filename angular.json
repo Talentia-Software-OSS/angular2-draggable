@@ -138,7 +138,7 @@
         }
       }
     },
-    "angular2-draggable": {
+    "@talentia/angular2-draggable": {
       "projectType": "library",
       "schematics": {
         "@schematics/angular:component": {
