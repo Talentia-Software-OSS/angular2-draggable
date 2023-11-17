@@ -3,7 +3,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "paths": {
-      "angular2-draggable": [
+      "@talentia/angular2-draggable": [
         "dist/angular2-draggable"
       ]
     },
